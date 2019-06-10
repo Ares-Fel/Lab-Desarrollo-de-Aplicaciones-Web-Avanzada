@@ -1,0 +1,16 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+4.2 Pudimos encadenar dos funciones como filter y map qu perite filtrar por un criterio y luego mostrar los datos pedidos.
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+*

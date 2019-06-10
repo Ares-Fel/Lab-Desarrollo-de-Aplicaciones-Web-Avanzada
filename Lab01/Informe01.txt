@@ -1,0 +1,31 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Moviles Multiplataforma
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+5.8 La diferencia con el primer script es al momento de imprimir el resultado en la pagina web, que se realiza al final de la conexion con el servidor.
+
+6.5 	readFile: Es un emtodo asincrono que tiene un retorno mientras funciona en segundo plano
+	readFilSync: Por el nombre hace referencia a un metodo sincrono, bloque su ejecucion hasta que esta haya terminado.
+
+7.3 El error se causo porque fataba declarar la variable arreglo_parametros como un array vacio.
+7.5 Imagen => 7.5.png
+7.6  La funcion createServer nos permite crear un servido HTTP, esta vez hemos tomado la url y la hems separado con split, para obtener los valores enviados, en esta caso es el parametro "nombre" con el valor "batman"
+
+8.4 Podemos reutilzar las variable obtenidas de la url, crear diferentes scripts con una funcionalidad especifica, luego ser llamados para usarlos al momento de crear el servidor http.
+8.8 Estamos guardadno un nombre, una variable, y usandola al llamar al servidor, de hecho esto es muy util cuando ese paramatro es estatico sera usando todo el tiempo, como titulos, botones personalizados,etc.
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+*La instalacion de node en otros sistemas operativos como linux, se puede hacer desde una terminal, entrando  a la documentacion podemos realizar los pasos para su instalacion.
+*Con node podemo ejecutar funciones que se comunique con un serviddor local o externo
+*Existe el metodo http.request, que podria causar confsion al mo mento de usarlo, pero en si son dos cosas distintas en su funcionalidad.
+*Podemos utilizar la funcion spliten nuestra funcion para obtener los datos que seenvia mediante la url al servidor, asi podmos hacer uso de estas en cualquier momento.
+
+
