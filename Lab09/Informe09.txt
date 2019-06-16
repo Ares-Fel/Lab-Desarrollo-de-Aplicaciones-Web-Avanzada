@@ -1,0 +1,24 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Web Avanzada
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+Imagenes de resultado del laboratorio
+
+
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+
+*Morgan es básicamente realiza registros de solicitues http, en cualquier solicitud que se realice, genera registros automáticamente.
+*Para tener un cuaro desplegable de seleccion usamos NavropDown, importamos el componente y podemos usarlo para poder editar perfil y redireccionar al chat.
+*En laboratorios anteriores creamos una fucnion para guardar los datos del usuario en el localStorgae, esta ve estamos usando getItem del local storage para poder obtener esos valores.
+* Desarrollamos Spinners y Subpaginas, creamos una variable que contiene un spinner, y luego verificamos el estado de loading
+para que cuando cambie, nos muestre todo el contenido.
+
