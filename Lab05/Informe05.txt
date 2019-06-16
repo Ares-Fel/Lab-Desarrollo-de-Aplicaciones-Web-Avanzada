@@ -10,8 +10,20 @@ Desarrollo
 1.7 Iniciamos el servicio:
 	Imagen adjunta => 1.7.png
 2.7 Reinicamos el servicio, vemos la respuesta al cerrar y abrir la cnexion, tambien vemos los atos ingresados mediante el formulario
-	Imagen adjunta => 2.7.png --------------------------------------------------------------------------------
+	Imagen adjunta => 2.7.png
+
+5.5 Verficamos que se elemine un elemento y tambien se ve reflejado en el otro navegaor
+	Imagen adjunta => 5.5.png
+
+TAREA. 	Imagen adjuta => tarea.png
+ --------------------------------------------------------------------------------
 
 Conclusiones
 
-* los archivos .jade son plantillas que facilitan generar contenido html si como tambien mejorar la sintaxis de html, utiliza solamente el nombre de las etiquetas.
+* Los archivos .jade son plantillas que facilitan generar contenido html si como tambien mejorar la sintaxis de html, utiliza solamente el nombre de las etiquetas.
+
+* El uso de la libreria socket.io permite la comunicacion en tiempo real entre servidores y clientes, normalmente se utiliza en chats.
+
+* Se ha realizado la conexion a mongoDB, permitiendonos agregar, modificar y borrar elementos de esa bas de datos, este CRUD se realizo atravez de mongoose.
+
+*Vemos que se ha utilizado bastenate la sintaxis de jQuery, que nos facilita la manipulacion de los elementos, como para llenar las tablas, efectos de color, etc.
