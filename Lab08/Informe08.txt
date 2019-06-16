@@ -1,0 +1,21 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Web Avanzada
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+3.3 	-Pagina de bienvenida despues de inicar sesion
+		imagen adjunta bienvenida.png
+	-Chat de usuarios
+		imagen adjunta chat.png
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Podemos utilizar Fontawesome que es una libreria de iconos gratis para cualquier proyecto o aplicacion, los iconos siempre son utiles
+*Socket io es una tecnologia bidreccional orientao a la comunicacion entre clien y servidor en tiempo real, y la mejor ejemplo para entendderlo es un chat.
+*Para dar estilos hemos usado react helmet, que simplemente obtiene los tag o etiquetas del HTML y le asigna estilos, simple
+*Now.sh permite hacer un eploy en la nube y no solamente en React.
