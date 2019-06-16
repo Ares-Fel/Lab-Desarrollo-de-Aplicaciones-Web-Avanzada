@@ -7,7 +7,15 @@ Aplicaciones Web Avanzada
 
 Desarrollo
 
-
+3.4 Operaciones principales de CRUD
+	app.get 
+		producto.show Permite buscar un producto
+ 	app.post
+		producto.create: Crea un producto.
+ 	app.post
+		producto.update: Actualiza un producto.
+	app.post
+		producto.delete: Borra un producto.
 
 --------------------------------------------------------------------------------
 

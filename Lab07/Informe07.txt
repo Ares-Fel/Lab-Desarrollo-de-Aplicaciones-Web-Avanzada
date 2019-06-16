@@ -7,9 +7,16 @@ Aplicaciones Web Avanzada
 
 Desarrollo
 
+2.6 Agregamos el logo de Tecsup al Header
+	Imagen ajunta => 2.6.png
 
+3.2 Creamos un mejor formulario
+	Imagen ajunta => 3.2.png
 --------------------------------------------------------------------------------
 
 Conclusiones
-
-*
+* Mediante npm install podemos facilitar la creacion de los mudulos e otro proyecto que nos los tiene.
+* Bootstrap permite dar un estilo profesional a cualquier aplicacion en este caso una pagina web
+* Fragments es un componente de react, nos permite agrupar componentes.
+* Local storage nos permite guardar variables, en este caso como credenciales que luego pueden ser borradas en un logout, para simular un inicio de sesion.
+* High Order Components nos permite colocar componentes en un orden deseado, tenieno asi una especie e jerarquia entre componentes.
