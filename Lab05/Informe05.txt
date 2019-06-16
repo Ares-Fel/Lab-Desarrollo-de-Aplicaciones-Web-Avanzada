@@ -1,0 +1,17 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Web Avanzada
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+1.7 Iniciamos el servicio:
+	Imagen adjunta => 1.7.png
+2.7 Reinicamos el servicio, vemos la respuesta al cerrar y abrir la cnexion, tambien vemos los atos ingresados mediante el formulario
+	Imagen adjunta => 2.7.png --------------------------------------------------------------------------------
+
+Conclusiones
+
+* los archivos .jade son plantillas que facilitan generar contenido html si como tambien mejorar la sintaxis de html, utiliza solamente el nombre de las etiquetas.

@@ -1,0 +1,30 @@
+
+Flores Bellido Angel - C15
+
+Aplicaciones Web Avanzada
+
+--------------------------------------------------------------------------------
+
+Desarrollo
+
+2.13 Para lamr una misma ruta y dependiedo de la peticion acceder a un get, post, delete o put
+2.18 Capturas de middlewares
+	Imagene adjunta => get.png
+	Imagene adjunta => postt.png
+	Imagene adjunta => put.png
+	Imagene adjunta => delete.png
+2.21 Capturas de verificacion
+	Imagene adjunta => gato.png
+	Imagene adjunta => style.png
+	Imagene adjunta => script.png
+
+--------------------------------------------------------------------------------
+
+Conclusiones
+
+* Para instalar un modulo de manera genera, normalmente en sistemas que utilizan usuarios root como MacOs y Linux, es necesario colocar los permisos de superusuario (sudo).
+* La funcion expresss.static permite agregar archivos estaticos, pasandole el nombre de ese directorio, se puede agergar mas de uno.
+* Ya que los middleware se ejecutan de forma progesiva es necasrio tomar en cuenta en donde se colocara el codigo.
+* Podemos usar express de diferentes maneras para crear aplicaiones web.
+
+

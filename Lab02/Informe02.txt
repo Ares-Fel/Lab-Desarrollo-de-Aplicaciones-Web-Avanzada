@@ -1,16 +1,40 @@
 
 Flores Bellido Angel - C15
 
-Aplicaciones Moviles Multiplataforma
+Aplicaciones Web Avanzada
 
 --------------------------------------------------------------------------------
 
 Desarrollo
 
-4.2 Pudimos encadenar dos funciones como filter y map qu perite filtrar por un criterio y luego mostrar los datos pedidos.
+4.2 Se ha creado el un archivo llamado package.json
+	Imagen adjunta => 4.2.png
+4.4 Vemos en el contenido del json que se creado un campo dependencias y dentro de este un campo underscore
+	Imagen adjunta => 4.4.png
+4.12 Pudimos encadenar dos funciones como filter y map que perite filtrar por un criterio y luego mostrar los datos pedidos.
 
+5.5 Podria separarse el codigo y ponerlo en un archivo diferente, llamarlo desde ahi y utilizarlo.
+	Imagen adjunta => 5.5.png
+
+6.8 Al parecer el error se da porque el nombre en el package.json es diferente o no es un nombre registrado, si ponemos el mismo nombre que el proyecto anterior ya no hay errores.
+
+7.1 Se crea una variable que permite buscar un elemento por su tag 'button', luego se recorre el elemento para asignarle un evento a cada elemento del array para imprimir un mensaje con cada clic.
+7.2	Imagen adjunta => 7.2
+7.3 La funcion permite imprimir numeros. Primero el numero 1, luego hay una funcion de tiempo que hace que esa linea demore en ejecutarse quedaria asi: 1 3 4 2
+
+8.2 	Imagen adjunta => 8.2.png
+8.3	Imagen adjunta => 8.3.png
 --------------------------------------------------------------------------------
 
 Conclusiones
 
-*
+* Hemos usado la libreria uderscore para utilizar algunas de sus funciones como map, chain, que so funciones que nos ayudan a realizar un mejor codigo.
+*La instalacion de underscore se hizo mediante el gestor de paquetes npm de node.
+* La publicacion de nuevos modulos permite aportar a la comunidad y ficilitar el aprendizaje, por otro lado esta la reutilizacion del mismo o sino usar modulos de otras personas que aportaron.
+* Para obtener un modulo debemos tener el nombre exacto de este para que pueda instalarse de lo contrario no lo encuentra y provoca un error.
+* Exsten maneras de hacer un cdigo mas redduciddo y simple, para mejorar en general un script, como por ejemplo && y || que permiten asignar valores en una condicion.
+*Los nombres creado para los odulos en npm y publicados necesita tener caracteres validos, se tiene que evitar poner guiones.
+
+
+
+
