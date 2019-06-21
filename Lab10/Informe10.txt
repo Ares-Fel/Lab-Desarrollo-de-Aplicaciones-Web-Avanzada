@@ -13,7 +13,9 @@ Desarrollo
 2->  Cofiguramos el dispatcher
 
 
-3->  Conexion de componentes con redux.
+3->  Conexion de componentes con redux. Clicamos al componente para ves los sucesos de inicio de sesion
+	Imagen adjunta => redux.png
+	Imagen adjunta => redux2.png
 
 --------------------------------------------------------------------------------
 
