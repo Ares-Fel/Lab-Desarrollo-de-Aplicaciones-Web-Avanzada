@@ -9,7 +9,17 @@ Desarrollo
 
 Imagenes de resultado del laboratorio
 
+- Inicio de sesion del usuario
+	Imagen adjnta => inicioSesion.png
 
+- Perfil del usuario que ha igresado
+	Imagen adjunta => perfil.png
+
+- Editamos el peril de angeFlo a angelFlores
+	Imagen adjunta => editarPerfil.png
+
+- Vemos los cambios, cerramos sesion y volvemos a entrar
+	Imagen adjunta => perfilEditado.png
 
 --------------------------------------------------------------------------------
 
